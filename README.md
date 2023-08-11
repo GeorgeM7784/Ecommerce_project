@@ -1,2 +1,2 @@
 # Ecommerce_project
-Final project for my FdSc degree
+Project I completed during my degree.
